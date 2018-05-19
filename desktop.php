@@ -4,8 +4,9 @@
     $userName = getUserName($user);
     $products = getUserProducts($user, "home");
     $total = count($products);
-    $part1Offset = $total / 2;
+    $part1Offset = $total / 2; //first index of the second part of small products
 
+    /** names an prices for the first product sections */
     $bigProducts = array(
         array(
             "name" => "Headphones",
@@ -116,5 +117,4 @@
         <?php include "components/footer.php" ?>                 
         <?php include "components/scripts.php" ?>
     </body>
-
 </html>

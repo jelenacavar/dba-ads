@@ -1,4 +1,5 @@
 <?php
+    /** read data from a csv file and return and array of products  */
     function getuserProducts($user, $dataType)
     {
         $products = array();        
@@ -49,6 +50,7 @@
         return $products;
     }
 
+    /** Return the name of the user capitalized  */
     function getUserName($user)
     {
         $userName = ""; 
