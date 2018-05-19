@@ -86,12 +86,12 @@
                                 <?php if($user == "annesofie"): ?>
                                     <video id="annesofie-video1" autoplay="true" loop src="video/annesofie/first.mp4" width="100%" style="margin-top: -1px;"></video>
                                     <br>
-                                    <p class="text-light p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati fugiat facere a delectus unde eum laudantium quo, voluptatibus temporibus sed. Dolores voluptatum impedit quos natus exercitationem enim! Animi, facere reiciendis.</p>
+                                    <p class="text-light p-2">The history of yellow is controversial. Hated, loved, mistreated, it was among the colors of the latest fashion shows.The color yellow is, in nature, a sign of danger. This summer is coming back to the fashion trends.</p>
                                     <video id="annesofie-video2" autoplay="true" loop src="video/annesofie/second.mp4" width="100%" style="margin-top: -1px;"></video>
                                 <?php else: ?>  
                                     <video id="kristian-video1" autoplay="true" loop src="video/kristian/first.mp4" width="100%" style="margin-top: -1px;"></video>
                                     <br>
-                                    <p class="text-light p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati fugiat facere a delectus unde eum laudantium quo, voluptatibus temporibus sed. Dolores voluptatum impedit quos natus exercitationem enim! Animi, facere reiciendis.</p>
+                                    <p class="text-light p-2">It’s on the table. At the restaurant where you’re having lunch with an old friend. You haven’t seen each other in years. So good to catch up, really missed them. Leave the phone and enjoy real face to face communication.</p>
                                     <video id="kristian-video2" autoplay="true" loop src="video/kristian/second.mp4" width="100%" style="margin-top: -1px;"></video>
                                 <?php endif; ?>
                             </div>
