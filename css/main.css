@@ -43,10 +43,6 @@ strong, .bold, b{
 .navbar{
     border-bottom: 0.5px solid #d8d8d8;
     background-color: #e8f1fc;
-    height: 45px;
-}
-.navbar-brand{
-    
 }
 .nav-item{
     overflow: hidden;
@@ -470,6 +466,9 @@ ul.unstyled li a{
         text-overflow: ellipsis;
         white-space: nowrap;
         overflow: hidden;
+    }
+    .navbar{
+        height: 45px;
     }
 }
 
