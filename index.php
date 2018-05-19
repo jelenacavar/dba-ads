@@ -2,7 +2,7 @@
 <html lang="en">
   <?php include "components/head.php" ?>
   <body>
-      <main class="container gallery-container items-48 flickity-enabled is-draggable">
+      <main class="container pb-2">
        <section class="row p-2">
         <article class="col">
           <h3 class="pt-2">Delightful ads and product experience</h3>
