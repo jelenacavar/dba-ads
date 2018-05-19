@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>atoms/icons/action_icons/AI00013_opret_annonce</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-5" transform="translate(-415.000000, -16.000000)">
+            <g id="atoms/icons/action_icons/AI00013_opret_annonce" transform="translate(410.000000, 12.000000)">
+                <g id="action-opret-annonce" transform="translate(5.000000, 4.000000)">
+                    <path d="M28.1073067,7.78368 C27.5313067,6.91434667 26.8753067,6.10261333 26.1371733,5.37088 C23.37984,2.63168 19.5697067,0.941013333 15.3595733,0.941013333 C6.94144,0.941013333 0.117973333,7.71114667 0.117973333,16.0599467 C0.117973333,20.2338133 1.82357333,24.0119467 4.58090667,26.7479467 C5.32117333,27.47968 6.13930667,28.1303467 7.01717333,28.7010133 C10.5275733,18.9762133 18.30144,11.2674133 28.1073067,7.78368" id="Fill-143" fill="#FFD71E"></path>
+                    <path d="M30.3538133,16.06016 C30.3538133,13.0020267 29.4322133,10.16256 27.85888,7.78389333 C18.0530133,11.2676267 10.2791467,18.9764267 6.76768,28.7012267 C9.16554667,30.26176 12.0295467,31.1780267 15.1111467,31.1780267 C23.5282133,31.1780267 30.3538133,24.4078933 30.3538133,16.06016" id="Fill-145" fill="#FFB505"></path>
+                    <path d="M15.2363733,24.41568 L15.2363733,7.70208" id="Path" stroke="#FFFFFF" stroke-width="2.078"></path>
+                    <path d="M23.6619733,16.0615467 L6.81077333,16.0615467" id="Path" stroke="#FFFFFF" stroke-width="2.078"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

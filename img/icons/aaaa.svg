@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>baseline-favorite-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-253.000000, -20.000000)">
+            <g id="baseline-favorite-24px">
+                <g transform="translate(251.000000, 16.000000)">
+                    <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+                    <path d="M16.0012774,27.7916773 L17.5970685,26.3499649 C24.1722768,20.3748242 26.2262677,18.259081 27.6951798,15.5254949 C28.4575032,14.1068417 28.8333333,12.7415772 28.8333333,11.3333333 C28.8333333,7.50280904 25.8305243,4.5 22,4.5 C19.8633269,4.5 17.7635236,5.48694159 16.380676,7.11083606 L16,7.55786841 L15.619324,7.11083606 C14.2364764,5.48694159 12.1366731,4.5 10,4.5 C6.16947571,4.5 3.16666667,7.50280904 3.16666667,11.3333333 C3.16666667,12.7475875 3.5457087,14.1184985 4.3146077,15.5432917 C5.78764013,18.2728657 7.85616831,20.4000518 14.4032568,26.3369275 L16.0012774,27.7916773 Z" id="Shape" stroke="#FFFFFF" fill-opacity="0.270012455" fill="#D0021B" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

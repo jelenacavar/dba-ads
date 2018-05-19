@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.7897024mm"
+   height="4.7897024mm"
+   viewBox="0 0 4.7897024 4.7897024"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="arrow-down.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="27.479686"
+     inkscape:cy="4.3141788"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.444436,-150.87969)">
+    <g
+       id="g3702"
+       transform="matrix(0.26458333,0,0,0.26458333,71.665609,150.11732)"
+       style="fill:#ececec">
+      <g
+         display="none"
+         id="Bounding_Boxes"
+         style="display:none;fill:#ececec">
+        <g
+           display="inline"
+           id="ui_x5F_spec_x5F_header_copy_3"
+           style="display:inline;fill:#ececec" />
+        <path
+           id="path3681"
+           d="M 0,0 H 24 V 24 H 0 Z"
+           display="inline"
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#ececec" />
+      </g>
+      <g
+         id="Rounded"
+         style="fill:#ececec">
+        <g
+           id="ui_x5F_spec_x5F_header_copy_6"
+           style="fill:#ececec" />
+        <path
+           id="path3685"
+           d="M 8.12,9.29 12,13.17 15.88,9.29 c 0.39,-0.39 1.02,-0.39 1.41,0 v 0 c 0.39,0.39 0.39,1.02 0,1.41 l -4.59,4.59 c -0.39,0.39 -1.02,0.39 -1.41,0 L 6.7,10.7 C 6.31,10.31 6.31,9.68 6.7,9.29 v 0 c 0.39,-0.38 1.03,-0.39 1.42,0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ececec" />
+      </g>
+    </g>
+  </g>
+</svg>
