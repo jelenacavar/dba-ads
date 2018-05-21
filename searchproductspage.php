@@ -51,7 +51,7 @@
                 <div class="row srp pt-3 d-block d-md-none">
                     <div class="col">
                         <div class="adwrapper" id="<?php echo $user ?>-first-modal" data-toggle="modal" data-target="#admobile1">                        
-                            <img class="img-fluid" src="img/srp/<?php echo $user ?>/ads/admobile1.png" />
+                            <img class="img-fluid" src="img/srp/<?php echo $user ?>/ads/admobile1.png" alt="ad mobile"/>
                             <div class="text <?php echo $user ?>-first">
                                 <?php if($user == "annesofie"): ?>
                                     <div class="text-light">
@@ -74,25 +74,25 @@
                 <!-- END: mobile ad1 -->
 
                 <!-- Modal admobile1 -->
-                <div class="custom-modal modal fade" id="admobile1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="custom-modal modal fade" id="admobile1" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                         <div class="modal-content <?php echo $user ?>-first">
                             <div class="modal-header">                                    
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <button type="button" class="close mr-2" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                                 </button>
                             </div>
                             <div class="modal-body" style="pointer-events: none;">
                                 <?php if($user == "annesofie"): ?>
-                                    <video id="annesofie-video1" autoplay="true" loop src="video/annesofie/first.mp4" width="100%" style="margin-top: -1px;"></video>
+                                    <video id="annesofie-video1" autoplay loop src="video/annesofie/first.mp4" style="margin-top: -1px; width: 100%;"></video>
                                     <br>
                                     <p class="text-light p-2">The history of yellow is controversial. Hated, loved, mistreated, it was among the colors of the latest fashion shows.The color yellow is, in nature, a sign of danger. This summer is coming back to the fashion trends.</p>
-                                    <video id="annesofie-video2" autoplay="true" loop src="video/annesofie/second.mp4" width="100%" style="margin-top: -1px;"></video>
+                                    <video id="annesofie-video2" autoplay loop src="video/annesofie/second.mp4" style="margin-top: -1px; width: 100%;"></video>
                                 <?php else: ?>  
-                                    <video id="kristian-video1" autoplay="true" loop src="video/kristian/first.mp4" width="100%" style="margin-top: -1px;"></video>
+                                    <video id="kristian-video1" autoplay loop src="video/kristian/first.mp4" style="margin-top: -1px; width: 100%;"></video>
                                     <br>
                                     <p class="text-light p-2">It’s on the table. At the restaurant where you’re having lunch with an old friend. You haven’t seen each other in years. So good to catch up, really missed them. Leave the phone and enjoy real face to face communication.</p>
-                                    <video id="kristian-video2" autoplay="true" loop src="video/kristian/second.mp4" width="100%" style="margin-top: -1px;"></video>
+                                    <video id="kristian-video2" autoplay loop src="video/kristian/second.mp4" style="margin-top: -1px; width: 100%;"></video>
                                 <?php endif; ?>
                             </div>
                         </div>
@@ -267,7 +267,7 @@
                 <div class="row srp pt-3 d-block d-md-none">
                     <div class="col">
                         <div class="adwrapper cta" id="<?php echo $user ?>-cta">                        
-                            <img class="img-fluid" src="img/srp/<?php echo $user ?>/ads/admobile2.png" />
+                            <img class="img-fluid" src="img/srp/<?php echo $user ?>/ads/admobile2.png" alt="ad mobile2" />
                             <?php if($user == "annesofie"): ?>
                                 <div class="text-top <?php echo $user ?>-first">
                                     <div class="text-light">
