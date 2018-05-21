@@ -2,7 +2,7 @@
     <div class="footer-links container">
         <div class="row">
             <div class="col pb-3">
-                <a href="https://www.dba.dk/" title="Nyt og brugt, køb og salg på DBA - Danmarks største handelsportal"><img class"img-fluid"="" src="img/icons/dba-logo.png"></a>
+                <a href="https://www.dba.dk/" title="Nyt og brugt, køb og salg på DBA - Danmarks største handelsportal"><img class="img-fluid" src="img/icons/dba-logo.png" alt="dba logo"></a>
             </div>
         </div>
         <div class="row">

@@ -47,7 +47,7 @@
             <div class="container-fluid py-3 px-6">
                 <h3 class="color-xs-blue"><strong>Velkommen tilbage, <?php echo $userName ?></strong></h3>        
                 <div class="banner <?php echo $user . "-banner"?> d-none d-md-inline-block">
-                    <img class="img-fluid" src="<?php echo $user == "annesofie"? "img/banner-annesofie1.jpg" : "img/banner-kristian.jpg"?>">                
+                    <img class="img-fluid" src="<?php echo $user == "annesofie"? "img/banner-annesofie1.jpg" : "img/banner-kristian.jpg"?>" alt="Home page banner">                
                 </div>
                 <h4 class="pt-3 pb-2 font-weight-bold">Bliv Inspireret</h4>
                 <div class="scrollable horizontal dragscroll">

@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light row align-items-center px-0">
         <div class="col-3 col-md-1 align-self-center">
-            <a class="navbar-brand pt-0" href="desktop.php?user=<?php echo $user ?>"><img class"img-fluid" src="img/icons/dba-logo.png" /></a>            
+            <a class="navbar-brand pt-0" href="desktop.php?user=<?php echo $user ?>"><img class="img-fluid" src="img/icons/dba-logo.png" alt="dba logo"/></a>            
         </div>        
         <div class="col col-md-6 search-box pr-0">                  
             <a href="searchproductspage.php?user=<?php echo $user ?>" class="search-input-container"></a>            
