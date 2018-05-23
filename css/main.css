@@ -331,7 +331,10 @@ strong, .bold, b{
 .small-card{
     width: 45%;
 }
-
+.price.bold,
+.title.bold{
+    font-family: "DBA_semibold" !important;
+}
 .blue{
     background-color: #D2E4F9;
 }

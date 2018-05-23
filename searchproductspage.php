@@ -37,8 +37,9 @@
                             <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                 <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                 <div class="card-bottom p-1 p-sm-2">
-                                    <span class="price bold"><?php echo $product["price"]?></span><br>
                                     <span class="title bold"><?php echo $product["name"]?></span>
+                                    <br>
+                                    <span class="price bold"><?php echo $product["price"]?></span>
                                 </div>
                             </div>
                             <?php endif; ?>
@@ -78,7 +79,7 @@
                     <div class="modal-dialog" role="document">
                         <div class="modal-content <?php echo $user ?>-first">
                             <div class="modal-header">                                    
-                                <button type="button" class="close mr-2" data-dismiss="modal" aria-label="Close">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                                 </button>
                             </div>
@@ -120,8 +121,9 @@
                                     <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                         <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                         <div class="card-bottom p-1 p-sm-2">
-                                            <span class="price bold"><?php echo $product["price"]?></span><br>
                                             <span class="title bold"><?php echo $product["name"]?></span>
+                                            <br>
+                                            <span class="price bold"><?php echo $product["price"]?></span>
                                         </div>
                                     </div>
                                     <?php endif; ?>
@@ -144,8 +146,9 @@
                                     <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                         <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                         <div class="card-bottom p-1 p-sm-2">
-                                            <span class="price bold"><?php echo $product["price"]?></span><br>
                                             <span class="title bold"><?php echo $product["name"]?></span>
+                                            <br>
+                                            <span class="price bold"><?php echo $product["price"]?></span>
                                         </div>
                                     </div>
                                     <?php endif; ?>
@@ -173,8 +176,9 @@
                             <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                 <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                 <div class="card-bottom p-1 p-sm-2">
-                                    <span class="price bold"><?php echo $product["price"]?></span><br>
                                     <span class="title bold"><?php echo $product["name"]?></span>
+                                    <br>
+                                    <span class="price bold"><?php echo $product["price"]?></span>
                                 </div>
                             </div>
                             <?php endif; ?>
@@ -202,8 +206,9 @@
                                     <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                         <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                         <div class="card-bottom p-1 p-sm-2">
-                                            <span class="price bold"><?php echo $product["price"]?></span><br>
                                             <span class="title bold"><?php echo $product["name"]?></span>
+                                            <br>
+                                            <span class="price bold"><?php echo $product["price"]?></span>
                                         </div>
                                     </div>
                                     <?php endif; ?>
@@ -226,8 +231,9 @@
                                     <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                         <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                         <div class="card-bottom p-1 p-sm-2">
-                                            <span class="price bold"><?php echo $product["price"]?></span><br>
                                             <span class="title bold"><?php echo $product["name"]?></span>
+                                            <br>
+                                            <span class="price bold"><?php echo $product["price"]?></span>
                                         </div>
                                     </div>
                                     <?php endif; ?>
@@ -250,8 +256,9 @@
                                     <div class="scrollable-card m-0 <?php echo $product["type"]?>">
                                         <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                                         <div class="card-bottom p-1 p-sm-2">
-                                            <span class="price bold"><?php echo $product["price"]?></span><br>
                                             <span class="title bold"><?php echo $product["name"]?></span>
+                                            <br>
+                                            <span class="price bold"><?php echo $product["price"]?></span>
                                         </div>
                                     </div>
                                     <?php endif; ?>

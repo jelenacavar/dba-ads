@@ -56,8 +56,9 @@
                         <div class="scrollable-card big-card blue">
                             <img class="img-fluid" src="<?php echo $imgSrc?>" alt="product">
                             <div class="card-bottom p-1 p-sm-2">
-                                <span class="price bold"><?php echo $bigProducts[$i]["price"] ?></span><br>
                                 <span class="title bold"><?php echo $bigProducts[$i]["name"] ?></span>
+                                <br>
+                                <span class="price bold"><?php echo $bigProducts[$i]["price"] ?></span>
                             </div>
                         </div>
                     <?php endfor; ?>        
@@ -80,8 +81,9 @@
                         <div class="scrollable-card small-card <?php echo $product["type"]?>">
                             <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                             <div class="card-bottom p-1 p-sm-2">
-                                <span class="price bold"><?php echo $product["price"]?></span><br>
                                 <span class="title bold"><?php echo $product["name"]?></span>
+                                <br>
+                                <span class="price bold"><?php echo $product["price"]?></span>
                             </div>
                         </div>
                         <?php endif; ?>                                                                                          
@@ -105,8 +107,8 @@
                         <div class="scrollable-card small-card <?php echo $product["type"]?>">
                             <img class="img-fluid" src="<?php echo $product["img"]?>" alt="">
                             <div class="card-bottom p-1 p-sm-2">
-                                <span class="price bold"><?php echo $product["price"]?></span><br>
-                                <span class="title bold"><?php echo $product["name"]?></span>
+                                <span class="title bold"><?php echo $product["name"]?></span><br>
+                                <span class="price bold"><?php echo $product["price"]?></span>
                             </div>
                         </div>
                         <?php endif; ?>                                                 
