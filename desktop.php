@@ -7,28 +7,51 @@
     $part1Offset = $total / 2; //first index of the second part of small products
 
     /** names an prices for the first product sections */
-    $bigProducts = array(
+    $bigProducts = $user== "kristian"? 
         array(
-            "name" => "Headphones",
-            "price" => "423 kr."
-        ),
+            array(
+                "name" => "Headphones",
+                "price" => "423 kr."
+            ),
+            array(
+                "name" => "Mac Computer",
+                "price" => "321 kr."
+            ),
+            array(
+                "name" => "Headphones",
+                "price" => "321 kr."
+            ),
+            array(
+                "name" => "Mac Computer",
+                "price" => "862 kr."
+            ),
+            array(
+                "name" => "Smartwatch",
+                "price" => "125 kr."
+            ),
+        ) :
         array(
-            "name" => "Mac Computer",
-            "price" => "321 kr."
-        ),
-        array(
-            "name" => "Headphones",
-            "price" => "321 kr."
-        ),
-        array(
-            "name" => "Mac Computer",
-            "price" => "862 kr."
-        ),
-        array(
-            "name" => "Smartwatch",
-            "price" => "125 kr."
-        ),
-    );
+            array(
+                "name" => "High Heels",
+                "price" => "423 kr."
+            ),
+            array(
+                "name" => "Pink T-Shirt",
+                "price" => "321 kr."
+            ),
+            array(
+                "name" => "Sport Shoes",
+                "price" => "321 kr."
+            ),
+            array(
+                "name" => "Leather Backpack",
+                "price" => "862 kr."
+            ),
+            array(
+                "name" => "Cute Puppy",
+                "price" => "125 kr."
+            )
+        );
 ?>
 <!DOCTYPE html>
 <html lang="en">    
